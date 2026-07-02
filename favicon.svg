@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="AI Craft Lab">
+  <circle cx="32" cy="32" r="29" fill="#ff4d1f"/>
+  <circle cx="32" cy="32" r="23" fill="#101010"/>
+  <path fill="#fff" d="M23.5 45h-6.1L28.3 18h7.2L46.6 45h-6.4l-2.3-6.1H25.8L23.5 45Zm4.2-11.3h8.3l-4.1-10.9-4.2 10.9Z"/>
+  <path fill="#32c7a3" d="M44 49c4.9-2.5 8-7.5 8-13h5c0 7.1-4.1 13.7-10.6 16.8L44 49Z"/>
+</svg>
